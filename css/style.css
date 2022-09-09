@@ -135,3 +135,12 @@ nav ul li.selected {
 #validcode {
   text-align: center;
 }
+
+.address {
+  width: 50%;
+}
+
+#latte {
+  float: right;
+  padding: 5px;
+}

@@ -1,0 +1,42 @@
+body {
+  background: #efe5d0 url(images/background.gif) top left;
+}
+
+form {
+  display: table;
+  padding: 10px;
+  border: thin dotted #7e7e7e;
+  background-color: #e1ceb8;
+  margin: 20px 20px 20px 10px;
+}
+
+form textarea {
+  width: 500px;
+  height: 200px;
+}
+
+div.tableRow {
+  display: table-row;
+}
+
+div.tableRow p {
+  display: table-cell;
+  vertical-align: top;
+  padding: 3px;
+}
+
+div.tableRow p:first-child {
+  text-align: right;
+}
+
+p.heading {
+  font-weight: bold;
+}
+
+.header2 {
+  margin-left: 10px;
+}
+
+.allcontent {
+  padding-top: 10px;
+}
